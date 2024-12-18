@@ -1,0 +1,26 @@
+contact:
+  name: Minhui Xie
+  name-cn: 谢旻晖
+  pos: Ph.D. Student
+  email: xieminhui@ruc.edu.cn
+  icon: xmh.jpg
+  addr: "Room 8-201, East Main Building, Tsinghua University, Beijing, China"
+  intro: I am a 5th-year PhD student in the Department of Computer Science and Technology at Tsinghua University.
+  name_bs_univ:  Nanjing University
+  dep_bs_univ: Department of Computer Science
+  start2end_bs:  2015 - 2019
+  name_phd_univ: Tsinghua University
+  dep_phd_univ: Department of Computer Science
+  start2end_phd: 2019 - present
+
+# Describe your recent news
+news:
+  - title: TBD.
+
+# Describe the honors you have before.
+honors:
+  - title: TBD.
+
+# P.S. 
+# All the publication lists are generated automatically, 
+# so you don't need to include them in this file.
