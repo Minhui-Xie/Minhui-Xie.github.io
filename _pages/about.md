@@ -103,8 +103,9 @@ Department of Computer Science, Nanjing University, Jiangsu, China
 <span class='anchor' id='-talks'></span>
 
 # 🏛️ Invited Talks
-- [2024.12] CCF 存储大会，推荐大模型存储系统研究
-- [2024.11] 华为 ICT 存储产品线，推荐大模型存储系统研究
+- [2024.12] OpenHarmony城市论坛，合肥
+- [2024.12] CCF 存储大会，广州
+- [2024.11] 华为 ICT 存储产品线，成都
 - [2023.09] VLDB'23, Persistent memory supported parameter Server
 - [2023.03] ByteDance, LLM training
 - [2022.05] NVIDIA, GPU resident cache
