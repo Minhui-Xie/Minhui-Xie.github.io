@@ -32,6 +32,8 @@ I am so excited about the interact field between ML and System.
  <a href='https://scholar.google.com/citations?user=90KLMlMAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>
 
 
+# 🎓欢迎有意科研实习、攻读硕士、攻读博士的同学和我联系！！！
+
 
 <span class='anchor' id='-xl'></span>
 
