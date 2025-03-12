@@ -134,12 +134,27 @@ Department of Computer Science, Nanjing University, Jiangsu, China
 
 # 👨🏼‍🏫 Teaching
 
+* Academic research methodology, *Renmin University*, Spring 2025
+* Main Computer Literature Course (Computer System Orientation), *Renmin University*, Spring 2025
 * TA, Computer Organization and Architecture, *Tsinghua University*, Spring 2023
 * TA, Computer Organization and Architecture, *Tsinghua University*, Spring 2022
 * TA, Computer Organization and Architecture, *Tsinghua University*, Spring 2021
 * TA, Computer Organization and Architecture, *Tsinghua University*, Spring 2020
 * TA, Introduction to Computer System, *Nanjing University*, Fall 2017
 
+# 🎖 Honors and Awards
+* 玉兰青年学者，中国人民大学，2025年
+* 吴玉章青年英才，中国人民大学，2024年
+* 优秀毕业生，清华大学计算机系，2024年
+* 华为公司天才少年（offer），2023年
+* 华为博士奖学金，清华大学 (华为公司资助)，2023年
+* 阿里云-CCF存储专委优秀论文奖，2023年
+* 龙湖奖学金，清华大学 (龙湖集团资助)，2023年
+* 龙湖奖学金，清华大学 (龙湖集团资助)，2022年
+* 赣州英才奖学金，清华大学（赣州市政府资助），2022年
+* 综合一等奖学金，清华大学，2021年
+* 优秀毕业生，南京大学，2019年
+* 国家奖学金，南京大学，2017年
 
 
 <script src="{{ site.url }}{{ site.baseurl }}/assets/js/button.js"></script>
