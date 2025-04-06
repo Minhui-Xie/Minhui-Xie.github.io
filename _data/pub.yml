@@ -1,3 +1,20 @@
+- title: "Understanding Robustness Issues of Updatable Learned Indexes"
+  authors:
+    - author: Yuanhui Luo
+    - author: Minhui Xie
+    - author: Yiheng Tong 
+    - author: Shichao Jiang 
+    - author: Yunpeng Chai
+  pubname: ACM SIGMOD International Conference on Management of Data 
+  pubnamebrief: SIGMOD'26
+  year: 2026
+  link: 
+  slide: 
+  code: 
+  type: conference
+  highlight: 1
+  ccf: CCF-A
+
 - title: "ShiftLock: Mitigate One-sided RDMA Lock Contention via Handover"
   authors:
     - author: Jian Gao
@@ -21,7 +38,9 @@
   pubname: The 30th Conference on Architectural Support for Programming Languages and Operating Systems 
   pubnamebrief: ASPLOS'25
   year: 2025
-  link: 
+  link: /papers/asplos25-frugal.pdf
+  slide: /slides/asplos25-slides-Frugal.pptx
+  code: https://github.com/thustorage/Frugal
   type: conference
   highlight: 1
   ccf: CCF-A
@@ -131,7 +150,7 @@
   pubname: The 29th Conference on Architectural Support for Programming Languages and Operating Systems 
   pubnamebrief: ASPLOS'24
   year: 2024
-  link: 
+  link: /papers/asplos24-maxembed.pdf
   type: conference
   highlight: 1
   ccf: CCF-A

@@ -145,6 +145,7 @@ Department of Computer Science, Nanjing University, Jiangsu, China
 * TA, Introduction to Computer System, *Nanjing University*, Fall 2017
 
 # 🎖 Honors and Awards
+* 微软铸星学者计划，微软公司，2025年
 * 玉兰青年学者，中国人民大学，2025年
 * 吴玉章青年英才，中国人民大学，2024年
 * 优秀毕业生，清华大学计算机系，2024年
