@@ -1,3 +1,42 @@
+- title: "Turbocharge ANNS on Real Processing-in-Memory by Enabling Fine-Grained Per-PIM-Core Scheduling"
+  authors:
+    - author: Puqing Wu
+    - author: Minhui Xie
+    - author: Enrui Zhao
+    - author: Dafang Zhang
+    - author: Jing Wang
+    - author: Kai Ren
+    - author: Yunpeng Chai
+  pubname: USENIX Annual Technical Conference
+  pubnamebrief: USENIX ATC'25
+  year: 2025
+  link: 
+  slide: 
+  code: 
+  type: conference
+  highlight: 1
+  ccf: CCF-A
+
+- title: "GPreempt: GPU Preemptive Scheduling Made General and Efficient"
+  authors:
+    - author: Ruwen Fan
+    - author: Tingxu Ren
+    - author: Minhui Xie
+    - author: Shiwei Gao
+    - author: Jiwu Shu
+    - author: Youyou Lu
+  pubname: USENIX Annual Technical Conference
+  pubnamebrief: USENIX ATC'25
+  year: 2025
+  link: 
+  slide: 
+  code: 
+  type: conference
+  highlight: 1
+  ccf: CCF-A
+
+
+
 - title: "Understanding Robustness Issues of Updatable Learned Indexes"
   authors:
     - author: Yuanhui Luo
