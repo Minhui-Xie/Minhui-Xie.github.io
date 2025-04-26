@@ -29,13 +29,37 @@ redirect_from:
  
 I am so excited about the interact field between ML and System.
 
- <a href='https://scholar.google.com/citations?user=90KLMlMAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>
+ <!-- <a href='https://scholar.google.com/citations?user=90KLMlMAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a> -->
+
+
+<div style="height: 200px;   background-color: #fffbe6;
+  border: 1px solid #f0e6c9;
+  border-radius: 8px; overflow: auto; padding: 3px;">
+  <h2> 🗞 ️News </h2>
+<ul>
+        <li class="no-p-margin">
+            April, 2025, Our paper PIMANN (approximate nearest neighbor search on PIM) has been accepted to USENIX ATC'25.
+        </li> 
+        <li class="no-p-margin">
+            April, 2025, Our paper GPreempt (scheduling colocated BE/RT jobs on GPUs) has been accepted to USENIX ATC'25.
+        </li> 
+        <li class="no-p-margin">
+            April, 2025, Our paper (understanding the robustness of learned indexes) has been accepted to SIGMOD'26.
+        </li> 
+        <li class="no-p-margin">
+            Oct, 2024, Our paper Frugal (embedding model training on commodity GPUs) has been accepted to ASPLOS'25.
+        </li> 
+    </ul>
+</div>
 
 
 # 🎓欢迎有意科研实习、攻读硕士、攻读博士的同学和我联系！！！
 
+<span style="color: #A90000;">同时也欢迎本校大二/大三本科生加入课题组开展科研工作，方式包括但不限于项目、毕业设计等。</span>
 
 <span class='anchor' id='-xl'></span>
+
+
 
 # 🎓 Work & Education Experience
 - [*2024.09 - now*]     Lecturer, <a href="https://www.ruc.edu.cn/"><img class="svg" src="/images/ruc.svg" width="24pt"></a> Department of Computer Science, Renmin University of China, Beijing, China

@@ -1,3 +1,20 @@
+- title: "Understanding Robustness Issues of Updatable Learned Indexes"
+  authors:
+    - author: Yuanhui Luo
+    - author: Minhui Xie
+    - author: Yiheng Tong 
+    - author: Shichao Jiang 
+    - author: Yunpeng Chai
+  pubname: ACM SIGMOD International Conference on Management of Data 
+  pubnamebrief: SIGMOD'26
+  year: 2026
+  link: 
+  slide: 
+  code: 
+  type: conference
+  highlight: 1
+  ccf: CCF-A
+
 - title: "Turbocharge ANNS on Real Processing-in-Memory by Enabling Fine-Grained Per-PIM-Core Scheduling"
   authors:
     - author: Puqing Wu
@@ -36,23 +53,6 @@
   ccf: CCF-A
 
 
-
-- title: "Understanding Robustness Issues of Updatable Learned Indexes"
-  authors:
-    - author: Yuanhui Luo
-    - author: Minhui Xie
-    - author: Yiheng Tong 
-    - author: Shichao Jiang 
-    - author: Yunpeng Chai
-  pubname: ACM SIGMOD International Conference on Management of Data 
-  pubnamebrief: SIGMOD'26
-  year: 2026
-  link: 
-  slide: 
-  code: 
-  type: conference
-  highlight: 1
-  ccf: CCF-A
 
 - title: "ShiftLock: Mitigate One-sided RDMA Lock Contention via Handover"
   authors:
