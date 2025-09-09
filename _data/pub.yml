@@ -1,3 +1,20 @@
+- title: "High-Throughput, Cost-Effective Billion-Scale Vector Search with a Single GPU"
+  authors:
+    - author: Haodi Jiang
+    - author: Hao Guo
+    - author: Minhui Xie
+    - author: Jiwu Shu
+    - author: Youyou Lu
+  pubname: ACM SIGMOD International Conference on Management of Data 
+  pubnamebrief: SIGMOD'26
+  year: 2026
+  link: 
+  slide: 
+  code: 
+  type: conference
+  highlight: 1
+  ccf: CCF-A
+
 - title: "Understanding Robustness Issues of Updatable Learned Indexes"
   authors:
     - author: Yuanhui Luo
@@ -8,7 +25,7 @@
   pubname: ACM SIGMOD International Conference on Management of Data 
   pubnamebrief: SIGMOD'26
   year: 2026
-  link: 
+  link: /papers/sigmod26-robust_learned_index.pdf
   slide: 
   code: 
   type: conference
@@ -27,12 +44,13 @@
   pubname: USENIX Annual Technical Conference
   pubnamebrief: USENIX ATC'25
   year: 2025
-  link: 
-  slide: 
-  code: 
+  link: https://www.usenix.org/system/files/atc25-wu-puqing.pdf
+  slide: https://www.usenix.org/sites/default/files/conference/protected-files/atc25_slides-wu_puqing.pdf
+  code: https://github.com/cds-ruc/PIM-ANNS
   type: conference
   highlight: 1
   ccf: CCF-A
+  note: Best storage related paper, invited for fast-tracked publication in ACM Transactions on Storage
 
 - title: "GPreempt: GPU Preemptive Scheduling Made General and Efficient"
   authors:
@@ -45,9 +63,9 @@
   pubname: USENIX Annual Technical Conference
   pubnamebrief: USENIX ATC'25
   year: 2025
-  link: 
-  slide: 
-  code: 
+  link: https://www.usenix.org/system/files/atc25-fan.pdf
+  slide: https://www.usenix.org/sites/default/files/conference/protected-files/atc25_slides_fan.pdf
+  code: https://github.com/thustorage/GPreempt
   type: conference
   highlight: 1
   ccf: CCF-A

@@ -38,6 +38,12 @@ I am so excited about the interact field between ML and System.
   <h2> 🗞 ️News </h2>
 <ul>
         <li class="no-p-margin">
+            September 2025, Our paper PIMANN was elected as best storage related papers of ATC 2025 and invited to the fast-tracked publication of ACM TOS.
+        </li> 
+        <li class="no-p-margin">
+            August 2025, Our paper GuestANN (approximate nearest neighbor search on GPU-direct SSD) has been accepted to SIGMOD'26.
+        </li> 
+        <li class="no-p-margin">
             April, 2025, Our paper PIMANN (approximate nearest neighbor search on PIM) has been accepted to USENIX ATC'25.
         </li> 
         <li class="no-p-margin">
@@ -99,8 +105,12 @@ Department of Computer Science, Nanjing University, Jiangsu, China
       {% endif %}
       {% if pub.ccf%}
         <font color="#A90000">({{ pub.ccf }})</font>
-      {% endif %},
-    {{ pub.year }}<br />
+      {% endif %},{{ pub.year }}
+      {% if pub.note%}
+        <br />
+        <font color="#A90000">{{ pub.note }}</font>
+      {% endif %}
+    <br />
     
   <a class="github-button" href="{{ pub.link }}" data-color-scheme="light" data-icon="octicon-repo-template" aria-label="Use this template ntkme/github-buttons on GitHub">Paper</a>
 
@@ -129,6 +139,10 @@ Department of Computer Science, Nanjing University, Jiangsu, China
 <span class='anchor' id='-talks'></span>
 
 # 🏛️ Invited Talks
+- [2025.08] Tencent, Vector Storage, Shenzhen
+- [2025.07] Huawei ICT Storage, Resource-Constrained Machine Learning Training, Shanghai
+- [2025.07] CCF Distributed Computing Network Conference, Lanzhou
+- [2025.03] ASPLOS’25, Frugal, Rotterdam, Netherlands
 - [2024.12] OpenHarmony城市论坛，合肥
 - [2024.12] CCF 存储大会，广州
 - [2024.11] 华为 ICT 存储产品线，成都
@@ -143,7 +157,8 @@ Department of Computer Science, Nanjing University, Jiangsu, China
 <span class='anchor' id='-services'></span>
 
 # 👨🏾‍💻 Services
-
+- IEEE Transactions on Computers (TC), 2025, Reviewer 
+- ACM Transactions on Architecture and Code Optimization (TACO), 2025, Reviewer
 - IEEE Transactions on Computer (TC), 2024, Reviewer
 - FAST, 2024, AEC, Reviewer
 - EuroSys, 2024,2023,2022, AEC, Reviewer
@@ -169,6 +184,8 @@ Department of Computer Science, Nanjing University, Jiangsu, China
 * TA, Introduction to Computer System, *Nanjing University*, Fall 2017
 
 # 🎖 Honors and Awards
+* CCF体系结构专委优博提名，2025年
+* “高创计划”北京市科协青年人才托举计划，北京市科协，2025年
 * 微软铸星学者计划，微软公司，2025年
 * 玉兰青年学者，中国人民大学，2025年
 * 吴玉章青年英才，中国人民大学，2024年
