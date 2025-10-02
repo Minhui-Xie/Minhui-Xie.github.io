@@ -184,6 +184,7 @@ Department of Computer Science, Nanjing University, Jiangsu, China
 * TA, Introduction to Computer System, *Nanjing University*, Fall 2017
 
 # 🎖 Honors and Awards
+* ACM SIGOPS China (ChinaSys) 优博，2025年
 * CCF体系结构专委优博提名，2025年
 * “高创计划”北京市科协青年人才托举计划，北京市科协，2025年
 * 微软铸星学者计划，微软公司，2025年
