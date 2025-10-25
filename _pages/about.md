@@ -184,22 +184,40 @@ Department of Computer Science, Nanjing University, Jiangsu, China
 * TA, Introduction to Computer System, *Nanjing University*, Fall 2017
 
 # 🎖 Honors and Awards
-* ACM SIGOPS China (ChinaSys) 优博，2025年
-* CCF体系结构专委优博提名，2025年
-* “高创计划”北京市科协青年人才托举计划，北京市科协，2025年
-* 微软铸星学者计划，微软公司，2025年
-* 玉兰青年学者，中国人民大学，2025年
-* 吴玉章青年英才，中国人民大学，2024年
-* 优秀毕业生，清华大学计算机系，2024年
-* 华为公司天才少年（offer），2023年
-* 华为博士奖学金，清华大学 (华为公司资助)，2023年
-* 阿里云-CCF存储专委优秀论文奖，2023年
-* 龙湖奖学金，清华大学 (龙湖集团资助)，2023年
-* 龙湖奖学金，清华大学 (龙湖集团资助)，2022年
-* 赣州英才奖学金，清华大学（赣州市政府资助），2022年
-* 综合一等奖学金，清华大学，2021年
-* 优秀毕业生，南京大学，2019年
-* 国家奖学金，南京大学，2017年
+* ACM China Doctoral Dissertation Award, 2 PhDs nationwide were selected, 2025  
+  ACM中国优秀博士论文奖（计算机全学科仅2人），2025年
+* ACM SIGOPS China (ChinaSys) Doctoral Dissertation Award, 3 system PhDs nationwide were selected, ranked #1, 2025  
+  ACM SIGOPS China 优博论文奖（系统方向仅3人），2025年
+* CCF Outstanding Doctoral Nominee in Computer Architecture, 2025  
+  CCF体系结构专委优博提名，2025年
+* Beijing Youth Talent Support Program, 2025  
+  “高创计划”北京市科协青年人才托举计划，北京市科协，2025年
+* Microsoft StarTrack Scholar, Microsoft, 2025  
+  微软铸星学者计划，微软公司，2025年
+* Yulan Scholar, Renmin University of China, 2025  
+  玉兰青年学者，中国人民大学，2025年
+* Wu Yuzhang Talent, Renmin University of China, 2024  
+  吴玉章青年英才，中国人民大学，2024年
+* Outstanding Graduate, Department of Computer Science, Tsinghua University, 2024  
+  优秀毕业生，清华大学计算机系，2024年
+* Huawei Top Minds (Offer), 2023  
+  华为公司天才少年（offer），2023年
+* Huawei PhD Scholarship, Tsinghua University (Sponsored by Huawei), 2023  
+  华为博士奖学金，清华大学 (华为公司资助)，2023年
+* Alibaba Cloud-CCF Storage Excellent Paper Award, 2023  
+  阿里云-CCF存储专委优秀论文奖，2023年
+* Longfor Scholarship, Tsinghua University (Sponsored by Longfor Group), 2023  
+  龙湖奖学金，清华大学 (龙湖集团资助)，2023年
+* Longfor Scholarship, Tsinghua University (Sponsored by Longfor Group), 2022  
+  龙湖奖学金，清华大学 (龙湖集团资助)，2022年
+* Ganzhou Talent Scholarship, Tsinghua University (Sponsored by Ganzhou Municipal Government), 2022  
+  赣州英才奖学金，清华大学（赣州市政府资助），2022年
+* Comprehensive First-Class Scholarship, Tsinghua University, 2021  
+  综合一等奖学金，清华大学，2021年
+* Outstanding Graduate, Nanjing University, 2019  
+  优秀毕业生，南京大学，2019年
+* National Scholarship, Nanjing University, 2017  
+  国家奖学金，南京大学，2017年
 
 
 <script src="{{ site.url }}{{ site.baseurl }}/assets/js/button.js"></script>
