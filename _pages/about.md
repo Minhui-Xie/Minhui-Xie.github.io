@@ -38,6 +38,9 @@ I am so excited about the interact field between ML and System.
   <h2> 🗞 ️News </h2>
 <ul>
         <li class="no-p-margin">
+            January 2026, Congrats to Yaxin&Enrui&Wenbo, on winning the second prize nationwide in the College Students' Computer System Capability Competition (PolarDB Database Track).
+        </li> 
+        <li class="no-p-margin">
             September 2025, Our paper PIMANN was elected as best storage related papers of ATC 2025 and invited to the fast-tracked publication of ACM TOS.
         </li> 
         <li class="no-p-margin">
@@ -139,13 +142,16 @@ Department of Computer Science, Nanjing University, Jiangsu, China
 <span class='anchor' id='-talks'></span>
 
 # 🏛️ Invited Talks
+- [2025.11] OpenEuler Summit 2025, Beijing
+- [2025.10] Huawei ICT Computing, Xianghu Forum, Hangzhou 
+- [2025.10] ACM Turing Award Celebration Conference China 2025, Shenzhen 
 - [2025.08] Tencent, Vector Storage, Shenzhen
 - [2025.07] Huawei ICT Storage, Resource-Constrained Machine Learning Training, Shanghai
 - [2025.07] CCF Distributed Computing Network Conference, Lanzhou
 - [2025.03] ASPLOS’25, Frugal, Rotterdam, Netherlands
 - [2024.12] OpenHarmony城市论坛，合肥
 - [2024.12] CCF 存储大会，广州
-- [2024.11] 华为 ICT 存储产品线，成都
+- [2024.11] Huawei ICT Storage, Chengdu
 - [2023.09] VLDB'23, Persistent memory supported parameter Server
 - [2023.03] ByteDance, LLM training
 - [2022.05] NVIDIA, GPU resident cache
@@ -161,6 +167,7 @@ Department of Computer Science, Nanjing University, Jiangsu, China
 - ACM Transactions on Architecture and Code Optimization (TACO), 2025, Reviewer
 - IEEE Transactions on Computer (TC), 2024, Reviewer
 - FAST, 2024, AEC, Reviewer
+- EuroSys, 2026, PC
 - EuroSys, 2024,2023,2022, AEC, Reviewer
 - SOSP, 2023, AEC, Reviewer
 - OSDI, 2023, 2022, AEC, Reviewer
@@ -184,6 +191,8 @@ Department of Computer Science, Nanjing University, Jiangsu, China
 * TA, Introduction to Computer System, *Nanjing University*, Fall 2017
 
 # 🎖 Honors and Awards
+* Ranked 2nd nationwide in the College Students' Computer System Capability Competition (PolarDB Database Track), Advisor, 2026
+  全国大学生计算机系统能力大赛数据库赛道（暨 PolarDB 数据库创新设计赛）全国第二名（指导老师），2026年
 * ACM China Doctoral Dissertation Award, 2 PhDs nationwide were selected, 2025  
   ACM中国优秀博士论文奖（计算机全学科仅2人），2025年
 * ACM SIGOPS China (ChinaSys) Doctoral Dissertation Award, 3 system PhDs nationwide were selected, ranked #1, 2025  
