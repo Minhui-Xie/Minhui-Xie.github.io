@@ -20,12 +20,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
- I am Minhui Xie, currently a Lecturer (i.e., Assistant Professor in the US academic system) in the [Department of Computer Science and Technology](http://info.ruc.edu.cn/Home/index.htm) at [Renmin University of China](https://en.ruc.edu.cn/) <a href="https://www.ruc.edu.cn/"><img class="svg" src="/images/ruc.svg" width="22pt"></a>.
- Before that, I obtained my Ph.D. degree in the Department of Computer Science and Technology, Tsinghua University, supervised by Prof. [Youyou Lu](http://storage.cs.tsinghua.edu.cn/~lu) and [Jiwu Shu](http://storage.cs.tsinghua.edu.cn/~jiwu-shu/) in the [Storage Group](http://storage.cs.tsinghua.edu.cn/).
+ I am Minhui Xie, currently an Assistant Professor and Ph.D. Supervisor (助理教授/特聘研究员/博士生导师) in the [School of Computer Science](https://cs.nju.edu.cn/) at [Nanjing University](https://www.nju.edu.cn/) <a href="https://www.nju.edu.cn/"><img class="svg" src="/images/nju.svg.png" width="20pt"></a>. Before that, I was a Lecturer in the Department of Computer Science and Technology at [Renmin University of China](https://en.ruc.edu.cn/) <a href="https://www.ruc.edu.cn/"><img class="svg" src="/images/ruc.svg" width="22pt"></a>, tightly working with Prof. [Yunpeng Chai](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/06f9baa19a6b43a9897c773886be5702.htm) and [Jing Wang](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/cdfcfa3437e84ebb857f865974cb31ca.htm). I obtained my Ph.D. degree in the Department of Computer Science and Technology, Tsinghua University, supervised by Prof. [Youyou Lu](http://storage.cs.tsinghua.edu.cn/~lu) and [Jiwu Shu](http://storage.cs.tsinghua.edu.cn/~jiwu-shu/) in the [Storage Group](http://storage.cs.tsinghua.edu.cn/).
  
+<span style="color: #A90000;">
  My research focus includes:
-- Systems Designed for At-Scale Machine Learning (System4AI)
-- Machine Learning Aided Storage System Design (AI4Storage)
+</span>
+- <span style="color: #A90000; font-weight: bold;">Systems Designed for At-Scale Machine Learning (AI Infra) </span>
+- <span style="color: #A90000;"> Machine Learning Aided Storage System Design (AI4Storage) </span>
  
 I am so excited about the interact field between ML and System.
 
@@ -37,6 +38,9 @@ I am so excited about the interact field between ML and System.
   border-radius: 8px; overflow: auto; padding: 3px;">
   <h2> 🗞 ️News </h2>
 <ul>
+        <li class="no-p-margin">
+            July 2026, Our paper Efficient GPU Multitasking with Morphable Kernels has been accepted to SOSP'26.
+        </li> 
         <li class="no-p-margin">
             January 2026, Congrats to Yaxin&Enrui&Wenbo, on winning the second prize nationwide in the College Students' Computer System Capability Competition (PolarDB Database Track).
         </li> 
@@ -62,16 +66,27 @@ I am so excited about the interact field between ML and System.
 </div>
 
 
-# 🎓欢迎有意科研实习、攻读硕士、攻读博士的同学和我联系！！！
+# 🎓欢迎有意科研实习、攻读硕士/博士的同学和我联系！！！
+本实验室常年招收博士/硕士/本科实习生（尤其是有出国意向的本科生），欢迎感兴趣的同学邮件联系xieminhui@nju.edu.cn，由于联系的人较多，联系之前麻烦请一定先阅读[招生说明](/recruit/)。
 
-<span style="color: #A90000;">同时也欢迎本校大二/大三本科生加入课题组开展科研工作，方式包括但不限于项目、毕业设计等。</span>
+为什么推荐研究系统方向？
+- 有价值：成果可落地于大规模集群，毕业年薪遥遥领先（周围系统方向博士均入选顶薪人才计划）。
+- 可解释：没有薛定谔的性能，只有确定的、可复现的实验结果；可以通过实验明确知道哪一步耗时多/哪一步是瓶颈，不用调参“求神拜佛”；measure then build！
+- 有挑战：系统研究是计算机科学的“深水区”，没有经过训练的人搞不了。
+- “铁”饭碗：应用层（LLM、Agent、向量）和硬件层（GPU新特性、奇怪的新硬件）双向驱动系统软件的创新，永远有事情做。
+
+<span style="color: #A90000;">
+招收2027年入学的保研/考研学生：硕士4名，直博/普博各1-2名；
+也在南京大学招收2026年已入学硕士若干；
+同时也欢迎大二-大四本科生加入课题组开展科研工作，方式包括但不限于项目、毕业设计等。</span>
 
 <span class='anchor' id='-xl'></span>
 
 
 
 # 🎓 Work & Education Experience
-- [*2024.09 - now*]     Lecturer, <a href="https://www.ruc.edu.cn/"><img class="svg" src="/images/ruc.svg" width="24pt"></a> Department of Computer Science, Renmin University of China, Beijing, China
+- [*2026.08 - now*]     Assistant Professor, Ph.D. Supervisor, <a href="https://www.nju.edu.cn/"><img class="svg" src="/images/nju.svg.png" width="20pt"></a> School of Computer Science, Nanjing University, Nanjing, China
+- [*2024.09 - 2026.07*]  Lecturer, <a href="https://www.ruc.edu.cn/"><img class="svg" src="/images/ruc.svg" width="24pt"></a> Department of Computer Science, Renmin University of China, Beijing, China
 - [*2019.09 - 2024.06*]  Ph.D., <a href="https://www.tsinghua.edu.cn/"><img class="svg" src="/images/thu.svg" width="24pt"></a> Department of Computer Science, Tsinghua University, Beijing, China
 - [*2015.09 - 2019.06*]  B.S., <a href="https://www.nju.edu.cn/"><img class="svg" src="/images/nju.svg.png" width="20pt"></a> 
 Department of Computer Science, Nanjing University, Jiangsu, China
@@ -227,6 +242,13 @@ Department of Computer Science, Nanjing University, Jiangsu, China
   优秀毕业生，南京大学，2019年
 * National Scholarship, Nanjing University, 2017  
   国家奖学金，南京大学，2017年
+
+# 🎖 指导学生获奖
+- 全国大学生计算机系统能力大赛数据库赛道（暨 PolarDB 数据库创新设计赛）全国第二名（指导老师），2026年
+- 截止目前，指导的所有本科毕设均获优秀毕设
+  - 中国人民大学优秀本科生毕业论文（彭文博），2026年
+  - 山东大学本科生优秀毕设（单红旗），2026年
+  - 中国人民大学优秀本科生毕业论文（尹佳），2025年
 
 
 <script src="{{ site.url }}{{ site.baseurl }}/assets/js/button.js"></script>

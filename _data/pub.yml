@@ -1,3 +1,22 @@
+- title: "Efficient GPU Multitasking with Morphable Kernels"
+  authors:
+    - author: Tingxu Ren
+    - author: Ruwen Fan
+    - author: Hao Guo
+    - author: Minhui Xie
+    - author: Shiwei Gao
+    - author: Jiwu Shu
+    - author: Youyou Lu
+  pubname: The 32nd ACM Symposium on Operating Systems Principles
+  pubnamebrief: SOSP'26
+  year: 2026
+  link: 
+  slide: 
+  code: 
+  type: conference
+  highlight: 1
+  ccf: CCF-A
+
 - title: "High-Throughput, Cost-Effective Billion-Scale Vector Search with a Single GPU"
   authors:
     - author: Haodi Jiang
@@ -30,6 +49,26 @@
   code: 
   type: conference
   highlight: 1
+  ccf: CCF-A
+
+- title: "Unlocking PIM-Core Capabilities for Efficient ANNS on Commodity Processing-in-Memory Hardware"
+  authors:
+    - author: Puqing Wu
+    - author: Minhui Xie
+    - author: Enrui Zhao
+    - author: Dafang Zhang
+    - author: Jing Wang
+    - author: Xiao Liang
+    - author: Kai Ren
+    - author: Yunpeng Chai
+  pubname: ACM Transactions on Storage
+  pubnamebrief: TOS
+  year: 2026
+  link: https://dl.acm.org/doi/10.1145/3806055
+  code: https://github.com/cds-ruc/PIM-ANNS
+  other: Invited
+  type: journal
+  highlight: 2
   ccf: CCF-A
 
 - title: "Turbocharge ANNS on Real Processing-in-Memory by Enabling Fine-Grained Per-PIM-Core Scheduling"
@@ -154,6 +193,25 @@
   link: 
   type: conference
   highlight: 1
+
+- title: "MI-LLM: Multiplier-Free LLM Inference on Commodity Processing-in-Memory Hardware"
+  authors:
+    - author: Puyun Hu
+    - author: Minhui Xie
+    - author: Linjiang Li
+    - author: Kuiyaohui Zhang
+    - author: Erge Xiang
+    - author: Jing Wang
+    - author: Size Zheng
+    - author: Xiao Zhang
+    - author: Yunpeng Chai
+  pubname: IEEE Transactions on Computers
+  pubnamebrief: TC
+  year: 2025
+  link: https://doi.org/10.1109/TC.2025.3626449
+  type: journal
+  highlight: 2
+  ccf: CCF-A
 
 - title: "Efficiently Enlarging RDMA-Attached Memory with SSD"
   authors:

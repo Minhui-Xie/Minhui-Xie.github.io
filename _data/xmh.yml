@@ -1,17 +1,17 @@
 contact:
   name: Minhui Xie
   name-cn: 谢旻晖
-  pos: Ph.D. Student
-  email: xieminhui@ruc.edu.cn
+  pos: Assistant Professor
+  email: xieminhui@nju.edu.cn
   icon: xmh.jpg
-  addr: "Room 8-201, East Main Building, Tsinghua University, Beijing, China"
-  intro: I am a 5th-year PhD student in the Department of Computer Science and Technology at Tsinghua University.
+  addr: "School of Computer Science, Nanjing University, Nanjing, China"
+  intro: I am an Assistant Professor and Ph.D. Supervisor in the School of Computer Science at Nanjing University.
   name_bs_univ:  Nanjing University
   dep_bs_univ: Department of Computer Science
   start2end_bs:  2015 - 2019
   name_phd_univ: Tsinghua University
   dep_phd_univ: Department of Computer Science
-  start2end_phd: 2019 - present
+  start2end_phd: 2019 - 2024
 
 # Describe your recent news
 news:
