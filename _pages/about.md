@@ -39,6 +39,9 @@ I am so excited about the interact field between ML and System.
   <h2> 🗞 ️News </h2>
 <ul>
         <li class="no-p-margin">
+            September 2026, Our paper Quiver (taming throughput-latency tradeoff in GPU-SSD ANNS) has been accepted to ATC'26.
+        </li> 
+        <li class="no-p-margin">
             July 2026, Our paper Efficient GPU Multitasking with Morphable Kernels has been accepted to SOSP'26.
         </li> 
         <li class="no-p-margin">

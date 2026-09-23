@@ -1,3 +1,21 @@
+- title: "Quiver: Taming Throughput-Latency Tradeoff in GPU-SSD ANNS"
+  authors:
+    - author: Puqing Wu
+    - author: Minhui Xie
+    - author: Yiheng Tong
+    - author: Jie Yin
+    - author: Sen Yang
+    - author: Yunpeng Chai
+  pubname: ACM SIGOPS Annual Technical
+  pubnamebrief: ATC'26
+  year: 2026
+  link: 
+  slide: 
+  code: 
+  type: conference
+  highlight: 1
+  ccf: CCF-A
+
 - title: "Efficient GPU Multitasking with Morphable Kernels"
   authors:
     - author: Tingxu Ren
@@ -50,6 +68,7 @@
   type: conference
   highlight: 1
   ccf: CCF-A
+
 
 - title: "Unlocking PIM-Core Capabilities for Efficient ANNS on Commodity Processing-in-Memory Hardware"
   authors:
