@@ -1,3 +1,42 @@
+- title: "Constructing Best-Performing Graph ANNS Index with GArena"
+  authors:
+    - author: Puqing Wu
+    - author: Minhui Xie
+    - author: Hao Guo
+    - author: Jie Yin
+    - author: Sen Yang
+    - author: Youyou Lu
+    - author: Yunpeng Chai
+  pubname: The 25th USENIX Conference on File and Storage Technologies
+  pubnamebrief: FAST'27
+  year: 2027
+  link: 
+  slide: 
+  code: 
+  type: conference
+  highlight: 1
+  ccf: CCF-A
+
+- title: "Colossus: An In-Memory Storage System Tailored for Lifelong User Behavior Sequences"
+  authors:
+    - author: Enrui Zhao
+    - author: Yunfeng Zhao
+    - author: Minhui Xie
+    - author: Yuanhui Luo
+    - author: Tianjiu Zhang
+    - author: Ronglai Jia
+    - author: Xiao Liang
+    - author: Yunpeng Chai
+  pubname: The 53rd International Conference on Very Large Data Bases
+  pubnamebrief: VLDB'27
+  year: 2027
+  link: 
+  slide: 
+  code: 
+  type: conference
+  highlight: 1
+  ccf: CCF-A
+
 - title: "Quiver: Taming Throughput-Latency Tradeoff in GPU-SSD ANNS"
   authors:
     - author: Puqing Wu

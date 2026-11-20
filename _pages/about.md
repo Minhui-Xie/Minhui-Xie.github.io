@@ -39,6 +39,12 @@ I am so excited about the interact field between ML and System.
   <h2> 🗞 ️News </h2>
 <ul>
         <li class="no-p-margin">
+            November 2026, Our paper GArena (constructing best-performing graph ANNS index) has been accepted to FAST'27.
+        </li>
+        <li class="no-p-margin">
+            October 2026, Our paper Colossus (an in-memory storage system tailored for lifelong user behavior sequences) has been accepted to VLDB'27.
+        </li>
+        <li class="no-p-margin">
             September 2026, Our paper Quiver (taming throughput-latency tradeoff in GPU-SSD ANNS) has been accepted to ATC'26.
         </li> 
         <li class="no-p-margin">
@@ -79,9 +85,13 @@ I am so excited about the interact field between ML and System.
 - “铁”饭碗：应用层（LLM、Agent、向量）和硬件层（GPU新特性、奇怪的新硬件）双向驱动系统软件的创新，永远有事情做。
 
 <span style="color: #A90000;">
-招收2027年入学的保研/考研学生：硕士4名，直博/普博各1-2名；
-也在南京大学招收2026年已入学硕士若干；
-同时也欢迎大二-大四本科生加入课题组开展科研工作，方式包括但不限于项目、毕业设计等。</span>
+2027年入学的名额：普博1-2名。
+同时欢迎2028年入学的保研/考研学生联系。
+</span>
+<s>招收2027年入学的保研/考研学生：硕士4名，直博1-2名（已招满）；<br>
+也在南京大学招收2026年已入学硕士若干；</s>
+<br>
+同时也欢迎大二-大四本科生加入课题组开展科研工作，方式包括但不限于项目、毕业设计等。
 
 <span class='anchor' id='-xl'></span>
 
